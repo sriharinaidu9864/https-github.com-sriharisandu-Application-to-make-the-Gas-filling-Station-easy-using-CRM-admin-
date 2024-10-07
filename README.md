@@ -1,0 +1,2 @@
+# https-github.com-sriharisandu-Application-to-make-the-Gas-filling-Station-easy-using-CRM-admin-
+The Gas Filling Store CRM Application is a comprehensive solution designed to streamline and simplify the gas filling process for both customers and store owners. It leverages the power of customer relationship management (CRM) to enhance customer experiences, optimize store operations, and improve overall efficiency in the gas filling industry. 
